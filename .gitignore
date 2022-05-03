@@ -1,2 +1,7 @@
 .idea
 notebooks
+Cartoscope oil and gas wells vegetation 2022.xlsx
+data_prep.py
+model_inference.py
+model_training.py
+streamlit_interface.py
